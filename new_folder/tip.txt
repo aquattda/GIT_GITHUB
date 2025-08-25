@@ -1,0 +1,5 @@
+COPY / PASTE:
+- CTRL + SHIFT + C / V
+
+CLEAR SCEEN:
+- cls
