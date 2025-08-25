@@ -1,0 +1,15 @@
+- All project:
+git config --global user.name “user_name”
+git config --global user.email “user_email”
+
+- One project:
+git config --local user.name “user_name”
+git config --local user.email “user_email”
+
+- Unset name and email:
+git config --local --unset user.name “user_name”
+git config --local --unset user.email “user_email”
+
+
+- Name: Luong Thanh Tuan
+- Email: aquattda@gmail.com
