@@ -6,3 +6,7 @@ gitignore
 
 # Bo qua toan bo file co hau to .log
 *.log
+
+# Bor qua cac file gitignore_1.xyz nhung van giu gitignore.xyz
+# Bo qua cac file co hau to .xyz trong git repo
+/*.xyz
